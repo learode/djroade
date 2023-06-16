@@ -1,0 +1,6 @@
+env/
+users/migrations/00*
+snippets/migrations/00*
+snippets/migrations/__pycache__/*
+snippets/__pycache__/
+tutorial/__pycache__/
