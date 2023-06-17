@@ -43,6 +43,7 @@ INSTALLED_APPS = [
     # local
     'snippets',
     'users',
+    'blog',
 
 ]
 
